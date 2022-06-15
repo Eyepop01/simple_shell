@@ -1,7 +1,7 @@
 B.\"Manpage for simple shell 
 .\"Created by Chukwuemeka Samuel and Samuel Eze
 
-.TH SODASH 1 "May 5 2022" "SODA SHELL - Simple Shell man page"
+.TH SODASH 1 "june 15 2022" "SODA SHELL - Simple Shell man page"
 
 .SH NAME
 sodash\fR \- simple UNIX command interpreter
